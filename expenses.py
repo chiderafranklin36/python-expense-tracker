@@ -1,4 +1,3 @@
-#create a dictionary
 Expenses = []
 
 def add_expenses():
